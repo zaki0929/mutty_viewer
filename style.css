@@ -5,3 +5,5 @@ body        {color: #666;
             text-align: center;}
 
 .preview    {margin: 40px;}
+
+.fillet      {border-radius: 20px;}
